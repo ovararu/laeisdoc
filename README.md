@@ -1,5 +1,5 @@
 # laeisdoc
-Laeis HPF II 1600 codumentation
+Laeis HPF II 1600 documentation
 
 ## 4.5 VALVE DENOMINATIONS 	(0050.000)
 
