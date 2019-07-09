@@ -14,9 +14,10 @@ All valves and devices of the press are labeled to prevent a mix-up. The brass l
 **diagram 1-355 837**
 
 ### 4.6.1 SUPAPE DE LIMITARE A PRESIUNII / SUPAPE DE REGLARE
-4.6.1 	PRESSURE LIMITING VALVES / REGULATION VALVES 	
+4.6.1 	PRESSURE LIMITING VALVES / REGULATION VALVES
+
 | Denumire electrica (Electrical denomination) | Denumire hidraulica (Hydraulical denomination) | Functia (Function) | Punct de control (Control point) | Manometru (Manometer) | Maximum  press. bar |
-| --- | - | --------------- | ---- | ----- | ------ |
+| --- | -- | --------------- | ---- | ----- | ------ |
 | | |- pressure limiting |
 | 1Y1 |	4 |	circul . pump 1 |	MM |	46 |	320 |
 | IY3 |	6 |	circul . pump 2 |	MM |	46 |	320 |	
