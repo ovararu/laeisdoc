@@ -76,4 +76,458 @@ All valves and devices of the press are labeled to prevent a mix-up. The brass l
 |3YR6 |	122.2 |	lifting downward |	
 |2Y6  |	13 	| mould downward — upward |	
 | 2Y5 |	14 	| mould downward — upward |	
-| 2Y12| 22 	| mould releasing |	
+| 2Y12| 22 	| mould releasing |
+|4Y5 | 122.3| material disintegrator up |	
+| 4Y6| 	122.3| material disintegrator down |	
+|4Y4 |	122.4| material disintegrator rotation right | 	
+|4Y3 |	122.4| material disintegrator rotation left |	
+|4Y9 |	122.5| charger box mixer rotation 	right |	
+|4Y8 |	122.5| charger box mixer rotation left |	
+|4Y7 |	132 | charger box mixer rotation speed |	
+|1YIOO| 152 | retaining valve open |	
+|2YR5 |	122.8| mould downward |	
+|2YR6 |	122.8| mould upward |	
+|IOYR3| 122.7| press plunger downward |	
+|10YR4| 122.7| 	press 	plunger upward |	
+
+****** Result for Image/Page 2 ******
+Operating and Servicing Instructions 	Page 	62 	
+for LAEIS BUCHER press HPF 11 1600 	DOC. 	1391 	
+5.0 	COMMISSIONING OF PRESS 	(0054.000) 	
+5.1 	COMMISSIONING OF PRESS 	
+5.1.1 	FILLING OF THE OIL COMPONENT WITH OIL 	
+Directions : 	
+- Do not put non—filtered oil directly from drums into tank. 	
+— Check the tank for contamination; it has to be thoroughly 	
+clean on the outside and in the inside . 	
+— No dirt particles or liquids 	— including remains of a pre- 	
+ceding fill — may be left behind. 	
+- Fill up prescribed oil type via the intake filter into 	
+the tank, i.e. up to the edge of the sight glass. 	
+— No foreign matter must be allowed to get into the oil 	
+tank. 	
+— Oil shall only be pumped into the tank via a 	
+filter combination. A respective connection exists 	
+at the filter. 	
+— At low temperatures it is recommended to warm up the 	
+pressure liquid, so that pass—through by the fine—mesh 	
+filter may be facilitated. 	
+— Refill up to the prescribed oil level, in case the oil 	
+level will decrease when the press is put into operation, 	
+or by blow-off of entrapped air. 	
+
+****** Result for Image/Page 3 ******
+Operating and Servicing Instructions 	Page 	63 	
+for LAEIS BUCHER press HPF 11 1600 	DOC. 	1391 	
+— Fix label indicating type of oil, quantity and date of oil 	
+fill. 	
+— Switch on oil heating after filling of tank. 	
+Pipe lines, screw connections, hoses and hydraulic compo- 	
+nents should be thoroughly checked for tightness . 	
+Attention : 	
+Watch moving in and out cylinders or rotating swivelling 	
+gear and hydromotors! Danger of accident ! 	
+
+****** Result for Image/Page 4 ******
+Operating and Servicing Instructions 	Page 	64 	
+for LAEIS BUCHER press HPF 11 1600 	DOC . 	1391 	
+5.2 	SWITCH-ON OF PUMPS/CHECK OF DIRECTION OF ROTATION (0055 .003) 	
+Remove all electrical fuses for the pump motors inside of the 	
+switch—board but the one for the unit, which one wants to 	
+start with. Most appropriate is to start with the main drive 	
+unit. Switch on the main switch at the switch cabinet and set 	
+pushbutton on PUMPS ON. 	
+! !ATTENTION! ! 	
+! Pump housing must be filled with oil when ! 	
+setting pump in operation ! 	
+Check at first pump unit for its 	
+— correct direction of revolution 	
+(in clockwise direction seen on the shaft end — 	
+direction of revolution arrow) . 	
+In case motor rotates in counter revolution it must 	
+be switched off instantaneously and has to be repoled 	
+so to save the pump. 	
+ATTENTION!! 	
+Pump damage after one minute running in the wrong 	
+direction! 	
+Proceed in the same manner with the other drive units, by 	
+bringing into action, step by step the respective fuses . 	
+It must be established, that the drive unit is 	
+— correctly aligned , that there are 	
+— no vibrations to notice and 	
+— no humming noises to be heard. 	
+
+****** Result for Image/Page 5 ******
+Operating and Servicing Instructions 	Page 	65 	
+for LAEIS BUCHER press HPE 11 1600 	DOC . 	1391 	
+5.3 	DE-AIRING OF PLANT 	(0056.000) 	
+At the first setting—into—operation the press can only 	
+be charged after 	
+DE-AIRING 	
+has been effected. 	
+The drive-motors are to be switched-on and the press to be 	
+set onto "CIRCULATION" . 	
+After about 5 minutes, you can start de—airing. Loosen the 	
+de-airing screws at the highest spots of the pipelines; when 	
+there is no more foamy oil escaping, the screws have to be 	
+tightened again. Check on the oil level inside of the 	
+container and if required add some oil. 	
+Thereafter go through all the functions of the press when 	
+idling, so that any remaining trapped air will be removed. It 	
+has to be observed that all the existing cylinders will run 	
+through their complete stroke action. 	
+Generally the plant will be completely de-aired after about 	
+10 - 	15 minutes running time. 	
+Indications of correct de—airing are: 	
+— no oil—air mixture (foam) inside of the container , 	
+— no abnormal noises inside of the hydraulic plant, 	
+— no jolting movement of the piston rod, motors etc . 	
+
+****** Result for Image/Page 6 ******
+Operating and Servicing Instructions 	Page 	66 	
+for LAEIS BUCHER press HPF 11 1600 	DOC. 	1391 	
+5.4 	METERING DEVICES FOR SETTING PRESS INTO OPERATION 	
+(0057.000) 	
+5.4. 1 	HYDRAULIC 	
+At the pipelines, valves, consumer points there are 	
+connections of system "Minimeß . 	Setting of the 	
+— orifices and 	
+— throttles etc. 	
+can be effected during final assembly at your works . 	
+Normally, additional examinations and adjustments when 	
+setting press into operation are not necessary. 	
+Solonoid valves have a light emitting diode at plug 	
+connections, so that a cable breakage will be easily 	
+detected and repaired. 	
+
+****** Result for Image/Page 7 ******
+Operating and Servicing Instructions 	Page 	67 	
+for LAEIS BUCHER press HPF 11 1600 	DOC. 	1391 	
+5.4.2 	ELECTRICS 	(0058.000) 	
+The switch conditon of individual valves per each module 	
+will be indicated on the luminous diagram. For this 	
+purpose the press must be run through its setting 	
+procedure. The prorated switch condition of the 	
+individual hydraulic valves is to be seen in the 	
+respective hydraulic circulation diagram. All valves 	
+are equipped with plug-in connection and luminous diode. 	
+Cable breakage can be easily detected. 	
+
+****** Result for Image/Page 8 ******
+Operating and Servicing Instructions 	Page 	68 	
+for LAEIS BUCHER press HPE 11 1600 	DOC. 	1391 	
+5.5 	EXCHANGE RESPECT . 	DISMANTLING OF CHARGER BOX MIXER 	
+(0059.000) 	
+Dismantling of charger box mixer can only be effected 	
+when the complete mould packet has been removed out of the 	
+press. (see herefore sketch Pr.S. 6424). For this purpose, 	
+— the charger carriage will be travelled into its maximum 	
+outer position, 	
+press piston to be lowered, 	
+4 ring screws M16 to be screwed into the piston plate 	
+the charger box mixer will be screwed off the charger 	
+carriage, 	
+— the mould fixing frame will be travelled into its 	
+lowermost position, 	
+— by means of a chain or rope, the charger mixer will be 	
+connected to the piston plate , 	
+— the piston plate will be travelled up. 	
+Now the mixer is hanging free and can be taken away by 	
+means of a fork lift. 	
+Attenti on : 	
+Exchange of mixer shovels will be possible in the charger 	
+carriage. The housing of the charger box mixer can be 	
+tilted upwards. When mounting new mixer shovels, their 	
+exact angular position has to be observed. (200 ) 	
+
+****** Result for Image/Page 9 ******
+Operating and Servicing Instructions 	Page 69 	
+for LAEIS BUCHER press HPF 11 1600 	DOC . 	1391 	
+5.6 	WORKING 	STEPS EOR THE FIRST COMMISSIONING OF PLANT 	
+(0060.000) 	
+A careful 	assembly and commissioning decide largely on the 	
+long-life 	of the individual machinery component . 	
+Directions : 	
+Check tank for cleaness . 	
+Pump the prescribed HLP oil via the machine s—own filter 	
+combination into the oil tank. Filter fineness: 5 gm. 	
+Check on the connections, screwings, valves and elements 	
+for any leakages. Leakages have to be eliminated by 	
+sealing, and the oil has to be removed . 	
+Switch on main switch. 	
+Switch on oil heating . 	
+Fill pressure accumulator bladder with nitrogen as 	
+indicated; use filling device for this purpose. 	
+Set pressure valves and pressure switch to zero. 	
+Open all manual valves (pump suction and cooling water 	
+valve) . 	
+Switch on the control . 	
+Wait till the starting temperature of the has been 	
+reached . 	
+Check on direction of revolution: 	
+switch on/ off the circulation pump for a short while; 	
+(remove the electrical fuses of all the other pumps) . 	
+
+****** Result for Image/Page 10 ******
+Operating and Servicing Instructions 	Page 	70 	
+for LAEIS BUCHER press HPE 11 1600 	DOC . 	1391 	
+Let the circulation pump run for about 1 hour: the 	
+valves are automatically blocked. 	
+Put the fuses back into place / resp. switch on . 	
+De—air pumps via the de—airing screws; turn fanwheel of 	
+motor by hand. 	
+Check on direction of rotation 	— accumulator loading 	
+pump to be switched on/ off for a short time. 	
+De—air the pipelines via the relief screws. 	
+Close the accumulator relief valves by hand. 	
+Accumulator pressure at the pressure switch SD2 min. and 	
+SD2 max. to be checked as to the values given with the 	
+respective hydraulic diagramme . 	
+Open the throttle valves only a little, so that there 	
+will only be a small flow through. Set the pressure 	
+valves to the most minute pressure possible, so that not 	
+the total oil quantity will be spattered. The oil 	
+quantity thus will be reduced to a minimum; even if a 	
+remaining small quantitiy of trapped air is in the 	
+consumers, no jerky, explosive—like movements will 	
+occur. 	
+Press directional valves by hand; move the various 	
+cylinders individually. 	
+Pipelines and cylinders are de—aired at special throttle 	
+screws until no further oil-foam will escape. 	
+By manual operation of the valves, go through the single 	
+movements of the charger, mould frame etc. several 	
+times, at lowest possible pressures . 	
+
+****** Result for Image/Page 1 ******
+Operating and Servicing Instructions 	Page 	61 	
+for LAEIS BUCHER press 	HPF 11 1600 	DOC . 	1391 	
+electrical / 	hydraulical 	
+denomination 	denomination 	
+4Y5 	122.3 	material 	disintegrator up 	
+4Y6 	122.3 	material 	disintegrator down 	
+4Y4 	122.4 	material 	disintegrator 	
+rotation 	right 	
+4Y3 	122.4 	material 	disintegrator 	
+rotation 	left 	
+4Y9 	122.5 	charger box mixer rotation 	
+right 	
+4Y8 	122.5 	charger box mixer rotation 	
+left 	
+4Y7 	132 	charger box mixer rotation 	
+speed 	
+IYIOO 	152 	retaining valve open 	
+2YR5 	122.8 	mould 	downward 	
+2YR6 	122.8 	mould 	upward 	
+IOYR3 	122.7 	press 	plunger downward 	
+IOYR4 	122.7 	press 	plunger upward 	
+
+****** Result for Image/Page 2 ******
+Operating and Servicing Instructions 	Page 	62 	
+for LAEIS BUCHER press HPF 11 1600 	DOC. 	1391 	
+5.0 	COMMISSIONING OF PRESS 	(0054.000) 	
+5.1 	COMMISSIONING OF PRESS 	
+5.1.1 	FILLING OF THE OIL COMPONENT WITH OIL 	
+Directions : 	
+- Do not put non—filtered oil directly from drums into tank. 	
+— Check the tank for contamination; it has to be thoroughly 	
+clean on the outside and in the inside . 	
+— No dirt particles or liquids 	— including remains of a pre- 	
+ceding fill — may be left behind. 	
+- Fill up prescribed oil type via the intake filter into 	
+the tank, i.e. up to the edge of the sight glass. 	
+— No foreign matter must be allowed to get into the oil 	
+tank. 	
+— Oil shall only be pumped into the tank via a 	
+filter combination. A respective connection exists 	
+at the filter. 	
+— At low temperatures it is recommended to warm up the 	
+pressure liquid, so that pass—through by the fine—mesh 	
+filter may be facilitated. 	
+— Refill up to the prescribed oil level, in case the oil 	
+level will decrease when the press is put into operation, 	
+or by blow-off of entrapped air. 	
+
+****** Result for Image/Page 3 ******
+Operating and Servicing Instructions 	Page 	63 	
+for LAEIS BUCHER press HPF 11 1600 	DOC. 	1391 	
+— Fix label indicating type of oil, quantity and date of oil 	
+fill. 	
+— Switch on oil heating after filling of tank. 	
+Pipe lines, screw connections, hoses and hydraulic compo- 	
+nents should be thoroughly checked for tightness . 	
+Attention : 	
+Watch moving in and out cylinders or rotating swivelling 	
+gear and hydromotors! Danger of accident ! 	
+
+****** Result for Image/Page 4 ******
+Operating and Servicing Instructions 	Page 	64 	
+for LAEIS BUCHER press HPF 11 1600 	DOC . 	1391 	
+5.2 	SWITCH-ON OF PUMPS/CHECK OF DIRECTION OF ROTATION (0055 .003) 	
+Remove all electrical fuses for the pump motors inside of the 	
+switch—board but the one for the unit, which one wants to 	
+start with. Most appropriate is to start with the main drive 	
+unit. Switch on the main switch at the switch cabinet and set 	
+pushbutton on PUMPS ON. 	
+! !ATTENTION! ! 	
+! Pump housing must be filled with oil when ! 	
+setting pump in operation ! 	
+Check at first pump unit for its 	
+— correct direction of revolution 	
+(in clockwise direction seen on the shaft end — 	
+direction of revolution arrow) . 	
+In case motor rotates in counter revolution it must 	
+be switched off instantaneously and has to be repoled 	
+so to save the pump. 	
+ATTENTION!! 	
+Pump damage after one minute running in the wrong 	
+direction! 	
+Proceed in the same manner with the other drive units, by 	
+bringing into action, step by step the respective fuses . 	
+It must be established, that the drive unit is 	
+— correctly aligned , that there are 	
+— no vibrations to notice and 	
+— no humming noises to be heard. 	
+
+****** Result for Image/Page 5 ******
+Operating and Servicing Instructions 	Page 	65 	
+for LAEIS BUCHER press HPE 11 1600 	DOC . 	1391 	
+5.3 	DE-AIRING OF PLANT 	(0056.000) 	
+At the first setting—into—operation the press can only 	
+be charged after 	
+DE-AIRING 	
+has been effected. 	
+The drive-motors are to be switched-on and the press to be 	
+set onto "CIRCULATION" . 	
+After about 5 minutes, you can start de—airing. Loosen the 	
+de-airing screws at the highest spots of the pipelines; when 	
+there is no more foamy oil escaping, the screws have to be 	
+tightened again. Check on the oil level inside of the 	
+container and if required add some oil. 	
+Thereafter go through all the functions of the press when 	
+idling, so that any remaining trapped air will be removed. It 	
+has to be observed that all the existing cylinders will run 	
+through their complete stroke action. 	
+Generally the plant will be completely de-aired after about 	
+10 - 	15 minutes running time. 	
+Indications of correct de—airing are: 	
+— no oil—air mixture (foam) inside of the container , 	
+— no abnormal noises inside of the hydraulic plant, 	
+— no jolting movement of the piston rod, motors etc . 	
+
+****** Result for Image/Page 6 ******
+Operating and Servicing Instructions 	Page 	66 	
+for LAEIS BUCHER press HPF 11 1600 	DOC. 	1391 	
+5.4 	METERING DEVICES FOR SETTING PRESS INTO OPERATION 	
+(0057.000) 	
+5.4. 1 	HYDRAULIC 	
+At the pipelines, valves, consumer points there are 	
+connections of system "Minimeß . 	Setting of the 	
+— orifices and 	
+— throttles etc. 	
+can be effected during final assembly at your works . 	
+Normally, additional examinations and adjustments when 	
+setting press into operation are not necessary. 	
+Solonoid valves have a light emitting diode at plug 	
+connections, so that a cable breakage will be easily 	
+detected and repaired. 	
+
+****** Result for Image/Page 7 ******
+Operating and Servicing Instructions 	Page 	67 	
+for LAEIS BUCHER press HPF 11 1600 	DOC. 	1391 	
+5.4.2 	ELECTRICS 	(0058.000) 	
+The switch conditon of individual valves per each module 	
+will be indicated on the luminous diagram. For this 	
+purpose the press must be run through its setting 	
+procedure. The prorated switch condition of the 	
+individual hydraulic valves is to be seen in the 	
+respective hydraulic circulation diagram. All valves 	
+are equipped with plug-in connection and luminous diode. 	
+Cable breakage can be easily detected. 	
+
+****** Result for Image/Page 8 ******
+Operating and Servicing Instructions 	Page 	68 	
+for LAEIS BUCHER press HPE 11 1600 	DOC. 	1391 	
+5.5 	EXCHANGE RESPECT . 	DISMANTLING OF CHARGER BOX MIXER 	
+(0059.000) 	
+Dismantling of charger box mixer can only be effected 	
+when the complete mould packet has been removed out of the 	
+press. (see herefore sketch Pr.S. 6424). For this purpose, 	
+— the charger carriage will be travelled into its maximum 	
+outer position, 	
+press piston to be lowered, 	
+4 ring screws M16 to be screwed into the piston plate 	
+the charger box mixer will be screwed off the charger 	
+carriage, 	
+— the mould fixing frame will be travelled into its 	
+lowermost position, 	
+— by means of a chain or rope, the charger mixer will be 	
+connected to the piston plate , 	
+— the piston plate will be travelled up. 	
+Now the mixer is hanging free and can be taken away by 	
+means of a fork lift. 	
+Attenti on : 	
+Exchange of mixer shovels will be possible in the charger 	
+carriage. The housing of the charger box mixer can be 	
+tilted upwards. When mounting new mixer shovels, their 	
+exact angular position has to be observed. (200 ) 	
+
+****** Result for Image/Page 9 ******
+Operating and Servicing Instructions 	Page 69 	
+for LAEIS BUCHER press HPF 11 1600 	DOC . 	1391 	
+5.6 	WORKING 	STEPS EOR THE FIRST COMMISSIONING OF PLANT 	
+(0060.000) 	
+A careful 	assembly and commissioning decide largely on the 	
+long-life 	of the individual machinery component . 	
+Directions : 	
+Check tank for cleaness . 	
+Pump the prescribed HLP oil via the machine s—own filter 	
+combination into the oil tank. Filter fineness: 5 gm. 	
+Check on the connections, screwings, valves and elements 	
+for any leakages. Leakages have to be eliminated by 	
+sealing, and the oil has to be removed . 	
+Switch on main switch. 	
+Switch on oil heating . 	
+Fill pressure accumulator bladder with nitrogen as 	
+indicated; use filling device for this purpose. 	
+Set pressure valves and pressure switch to zero. 	
+Open all manual valves (pump suction and cooling water 	
+valve) . 	
+Switch on the control . 	
+Wait till the starting temperature of the has been 	
+reached . 	
+Check on direction of revolution: 	
+switch on/ off the circulation pump for a short while; 	
+(remove the electrical fuses of all the other pumps) . 	
+
+****** Result for Image/Page 10 ******
+Operating and Servicing Instructions 	Page 	70 	
+for LAEIS BUCHER press HPE 11 1600 	DOC . 	1391 	
+Let the circulation pump run for about 1 hour: the 	
+valves are automatically blocked. 	
+Put the fuses back into place / resp. switch on . 	
+De—air pumps via the de—airing screws; turn fanwheel of 	
+motor by hand. 	
+Check on direction of rotation 	— accumulator loading 	
+pump to be switched on/ off for a short time. 	
+De—air the pipelines via the relief screws. 	
+Close the accumulator relief valves by hand. 	
+Accumulator pressure at the pressure switch SD2 min. and 	
+SD2 max. to be checked as to the values given with the 	
+respective hydraulic diagramme . 	
+Open the throttle valves only a little, so that there 	
+will only be a small flow through. Set the pressure 	
+valves to the most minute pressure possible, so that not 	
+the total oil quantity will be spattered. The oil 	
+quantity thus will be reduced to a minimum; even if a 	
+remaining small quantitiy of trapped air is in the 	
+consumers, no jerky, explosive—like movements will 	
+occur. 	
+Press directional valves by hand; move the various 	
+cylinders individually. 	
+Pipelines and cylinders are de—aired at special throttle 	
+screws until no further oil-foam will escape. 	
+By manual operation of the valves, go through the single 	
+movements of the charger, mould frame etc. several 	
+times, at lowest possible pressures . 	
+
